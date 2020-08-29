@@ -1,7 +1,7 @@
 # 🌤 Weather React App
 
 This is a simple weather app made with React. The end is to show the temperature in certains countries and their respective cities that the user can select. To get the information that shows the temperature I use the OpenWeatherMap API.
-  This project allows me to get practice and understand Reactconcepts such as useState, useEffect, how to consume an API with async JavaScript functions, the documentation with PropTypes and of course React components!
+  This project allows me to get practice and understand React concepts such as useState, useEffect, how to consume an API with async JavaScript functions, the documentation with PropTypes and of course React components!
   
   ## 🔧 Components
   
